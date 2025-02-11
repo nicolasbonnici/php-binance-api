@@ -10,7 +10,7 @@
     "require": {
         "php": ">=8.1",
         "ext-curl": "*",
-        "nicolasbonnici/pawl": "^0.4.1",
+        "nicolasbonnici/pawl": "^1.0",
         "react/socket": "^1.0 || ^0.8 || ^0.7",
         "ratchet/rfc6455": "^0.3"
     },
